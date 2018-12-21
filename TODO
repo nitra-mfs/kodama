@@ -1,0 +1,46 @@
+-------------
+CORE FEATURES
+-------------
+[X] - controller
+[X] - rooms
+[X] - ennemy
+[X] - opponent
+[X] - danger
+[X] - game over
+----------------
+    EXTRA 1
+----------------
+[X] - light
+[X] - music
+[X] - title screen
+[X] - timer
+[X] - delta timing
+[X] - animations
+[X] - maps powerup
+----------------
+     EXTRA 2
+----------------
+[X] - gravity
+[X] - jumps
+[X] - loot
+[X] - bombs
+[X] - IA lvl1
+----------------
+     EXTRA 3
+----------------
+[X] - checkpoints
+[X] - destructive block
+[X] - cheatcodes
+----------------
+   ANIMATIONS
+----------------
+[ ] - wait
+[X] - run
+[X] - jump
+[X] - throw 
+----------------
+
+[ ] - Never implem
+[.] - Partially implem
+[X] - Implem and use
+

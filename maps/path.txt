@@ -1,0 +1,9 @@
+./maps/m1.kmf
+./maps/m2.kmf
+./maps/m3.kmf
+./maps/m4.kmf
+./maps/m5.kmf
+./maps/m6.kmf
+./maps/m7.kmf
+./maps/m8.kmf
+./maps/m9.kmf
